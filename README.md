@@ -4,7 +4,6 @@ For better assistance, Mageplaza makes an effort to create **Magento 2 Norwegian
 
 By following Norwegian Language Pack tutorial, there is no need to copy all CSV file or any manual activity. The translation is directly connected with the data of Magento 2 Translation Project at Crowdin and then automatically completed after selecting *Norwegian (Sweden)* locale option.
 
-Read more [Magento 2 Norwegian Language Pack](https://www.mageplaza.com/magento-2-norwegian-language-pack.html)
 
 
 ## Overview
@@ -157,6 +156,5 @@ Contribute to this language at https://crowdin.com/project/magento-2/sv_SE
 
 ## References:
 
-- https://www.mageplaza.com/magento-2-norwegian-language-pack.html
 - https://www.mageplaza.com/kb/magento-2-language-pack/
 - https://crowdin.com/project/magento-2
