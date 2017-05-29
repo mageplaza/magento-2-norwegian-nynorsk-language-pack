@@ -158,3 +158,6 @@ Contribute to this language at https://crowdin.com/project/magento-2/sv_SE
 
 - https://www.mageplaza.com/kb/magento-2-language-pack/
 - https://crowdin.com/project/magento-2
+
+## Contributors
+Contributors update in this list https://github.com/mageplaza/magento-2-norwegian-language-pack/blob/master/CONTRIBUTORS.md
