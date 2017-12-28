@@ -36,7 +36,7 @@ Install the Norwegian language pack via composer is never easier.
 ```
 composer require mageplaza/magento-2-norwegian-language-pack:dev-master
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy sv_SE
+php bin/magento setup:static-content:deploy nn_NO
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -49,7 +49,7 @@ php bin/magento cache:flush
 ```
 composer update mageplaza/magento-2-norwegian-language-pack:dev-master
 php bin/magento cache:clean
-php bin/magento setup:static-content:deploy sv_SE
+php bin/magento setup:static-content:deploy nn_NO
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -83,7 +83,7 @@ Unzip the Norwegian language pack to Magento 2 root folder. In this guide, we ex
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip fr.zip /var/www/html/
+unzip master.zip /var/www/html/
 ```
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -104,7 +104,7 @@ To download and install Norwegian pack manually, you have to access to your serv
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `sv_SE.zip` into `app/i18n/mageplaza/sv_SE/sv_SE.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/mageplaza/nn_NO/nn_NO.csv`
 
 #### Step 2: Flush cache
 
@@ -120,7 +120,7 @@ Now time to active the language pack for your Magento 2 store. From Magento 2 ad
 <!-- ## Translation process of Norwegian Language Pack
 ![process](http://progressed.io/bar/80) -->
 
-Contribute to this language at https://crowdin.com/project/magento-2/sv_SE
+Contribute to this language at https://crowdin.com/project/magento-2/no
 
 ## Supported Magento versions
 
@@ -145,6 +145,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/sv_SE
 - Magento v2.1.4
 - Magento v2.1.5
 - Magento v2.1.6
+- Magento v2.1.7 (Not completed)
+- Magento v2.1.8 (Not completed)
+- Magento v2.1.9 (Not completed)
+- Magento v2.1.10 (Not completed)
 
 
 
