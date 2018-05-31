@@ -10,12 +10,12 @@
  *
  *                     @category  Mageplaza
  *                     @package   Mageplaza_Norwegian
- *                     @copyright Copyright (c) 2017
+ *                     @copyright Copyright (c) 2018
  *                     @license   https://www.mageplaza.com/LICENSE.txt
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'mageplaza_nn_no',
+    'mageplaza_nb_no',
     __DIR__
 );
