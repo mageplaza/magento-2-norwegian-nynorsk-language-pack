@@ -19,7 +19,7 @@ Read more [Magento 2 Norwegian Language Pack](https://www.mageplaza.com/magento-
 
 This is status of Norwegian Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/0?title=translated)
+![language pack](http://progressed.io/bar/51?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
@@ -39,7 +39,7 @@ Install the Norwegian language pack via composer is never easier.
 
 ```
 composer require mageplaza/magento-2-norwegian-language-pack:dev-master
-php bin/magento setup:static-content:deploy nb_NO
+php bin/magento setup:static-content:deploy no_NO
 php bin/magento cache:flush
 
 ```
@@ -49,7 +49,7 @@ php bin/magento cache:flush
 
 ```
 composer update mageplaza/magento-2-norwegian-language-pack:dev-master
-php bin/magento setup:static-content:deploy nb_NO
+php bin/magento setup:static-content:deploy no_NO
 php bin/magento cache:flush
 
 ```
@@ -89,7 +89,7 @@ Unzip the Norwegian language pack to Magento 2 root folder. In this guide, we ex
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/nb_no
+unzip master.zip app/i18n/Mageplaza/no_no
 ```
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -110,7 +110,7 @@ To download and install Norwegian pack manually, you have to access to your serv
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `nb_NO.zip` into `app/i18n/mageplaza/nb_NO/nb_NO.csv`
+Unzip the compressed file and upload file `no_NO.zip` into `app/i18n/mageplaza/no_NO/no_NO.csv`
 
 #### Step 2: Flush cache
 
