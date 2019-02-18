@@ -96,7 +96,7 @@ Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html
 unzip master.zip app/i18n/Mageplaza/
 ```
 
-Rename folder `magento-2-norwegian-language-pack` to `no_no`.
+Rename folder `magento-2-norwegian-language-pack` to `nb_no`.
 
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -117,7 +117,7 @@ To download and install Norwegian pack manually, you have to access to your serv
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/no_no/no_NO.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/nb_no/nb_NO.csv`
 
 See this screenshot
 
