@@ -111,12 +111,12 @@ Customers,Kunder,module,Magento_AdvancedCheckout
 "Shopping Cart",Handlevogn,module,Magento_AdvancedCheckout
 "An error occurred. For details, see the error log.","En feil har oppstått. For detaljer, se feil-loggen.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Du har ikke tilgang til dette.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Bestillinger kan kun fullføres i en aktiv butikk. Bekreft butikken å prøv igjen.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","Den bestilte varen må lastes. Last inn elementet, og prøv på nytt.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","ID'en for tilbudselementet må mottas. Angi ID'en og prøv igjen.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","Den bestilte varen må lastes. Last inn varen, og prøv på nytt.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","Vare-ID'en på ønskelisten må mottas. Angi ID'en og prøv igjen.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","Varen på ønskelisten må lastes. Last inn elementet, og prøv på nytt.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","Det har oppstått en feil. Se i feilloggen for mer informasjon.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","Du kan ikke konfigurere et produkt.",module,Magento_AdvancedCheckout
 "You removed the items.","Du fjernet elementene.",module,Magento_AdvancedCheckout
@@ -147,7 +147,7 @@ Customers,Kunder,module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups","Ja, for angitte kundegrupper",module,Magento_AdvancedCheckout
 "Yes, for Everyone","Ja, for alle",module,Magento_AdvancedCheckout
 No,Nei,module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","Filen er skadet og kan ikke brukes.",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","Vennligst opplast filen i .csv format.",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 element(er) krever din oppmerksomhet.",module,Magento_AdvancedCheckout
 "Apply Coupon Code","Bruk kupongkode",module,Magento_AdvancedCheckout
@@ -348,13 +348,13 @@ Error,Feil,module,Magento_AsynchronousOperations
 "Dismiss All Completed Tasks","Forkaste alle fullførte oppgaver",module,Magento_AsynchronousOperations
 "Action Details - #","Handlings-detaljer -#",module,Magento_AsynchronousOperations
 "Number of Records Affected","Antall poster som påvirkes",module,Magento_AsynchronousOperations
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again.",module,Magento_Authorization
+"The role wasn't found for the user. Verify the role and try again.","Brukerens rolle ble ikke funnet. Kontroller rollen og prøv igjen.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Noe gikk galt ved kompileringen av en liste over tillatte ressurser. Du kan finne ut mer i unntaksloggen.",module,Magento_Authorization
 "You created the order.","Du opprettet ordren.",module,Magento_Authorizenet
 "Order saving error: %1","Ordrelagringsfeil: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Velg en betalingsmåte.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Vi kan ikke behandle bestillingen akkurat nå. Prøv igjen senere.",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Authorizenet
+"A server error stopped your order from being placed. Please try to place your order again.","En serverfeil stoppet bestillingen fra blir gjennomført. Prøv å bestille igjen.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Kredittkort: xxxx-%1",module,Magento_Authorizenet
 "amount %1","beløp %1",module,Magento_Authorizenet
 failed.,mislyktes.,module,Magento_Authorizenet
@@ -382,7 +382,7 @@ void,Ugyldig,module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transaksjon %1 har blitt avslått. Transaksjonsstatus er ""%2"". Beløp %3.",module,Magento_Authorizenet
 "Authorize Only","Bare godkjenne",module,Magento_Authorizenet
 "Authorize and Capture","Godkjenn og fang",module,Magento_Authorizenet
-"The transaction details are unavailable. Please try again later.","The transaction details are unavailable. Please try again later.",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.","Transaksjonsdetaljer er ikke tilgjengelige. Prøv igjen senere.",module,Magento_Authorizenet
 "Electronic payments save the trees.","Elektroniske betalinger sparer trærne.",module,Magento_Authorizenet
 "Credit Card Type",Kredittkorttype,module,Magento_Authorizenet
 "Please Select","Vennligst velg",module,Magento_Authorizenet
@@ -430,7 +430,7 @@ Done,Utført,module,Magento_B2b
 "B2B Features",B2B-funksjoner,module,Magento_B2b
 "Invalid Form Key. Please refresh the page.","Ugyldig skjemanøkkel. Vennligst oppdater siden.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Du oppga en ugyldig hemmelig nøkkel. Oppdater siden.",module,Magento_Backend
-"Invalid security or form key. Please refresh the page.","Invalid security or form key. Please refresh the page.",module,Magento_Backend
+"Invalid security or form key. Please refresh the page.","Ugyldig skjemanøkkel. Vennligst oppdater siden.",module,Magento_Backend
 "Cache Storage Management","Cache lagringsadministrasjon",module,Magento_Backend
 "Flush Magento Cache","Tømme Magento Cache",module,Magento_Backend
 "The cache storage may contain additional data. Are you sure that you want to flush it?","Mellomlageret kan inneholde ekstra data. Er du sikker på at du vil tømme det?",module,Magento_Backend
@@ -547,7 +547,7 @@ Stores,Butikker,module,Magento_Backend
 Home,Hjem,module,Magento_Backend
 Reset,Nullstill,module,Magento_Backend
 "Are you sure you want to do this?","Er du sikker på at du vil gjøre dette?",module,Magento_Backend
-label,label,module,Magento_Backend
+label,etikett,module,Magento_Backend
 "Add New Image","Legg til nytt bilde",module,Magento_Backend
 "Export block for grid %1 is not defined","Eksport blokk for rutenett %1 er ikke definert",module,Magento_Backend
 "Reset Filter","Tilbakestill filter",module,Magento_Backend
@@ -565,13 +565,13 @@ To,Til,module,Magento_Backend
 "Invalid export type supplied for grid export block","Ugyldig eksporttype angitt for grid eksport blokk",module,Magento_Backend
 Export,Eksport,module,Magento_Backend
 "Please correct the column format and try again.","Endre kolonneformatet og prøv på nytt.",module,Magento_Backend
-"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Backend
+"An item needs to be selected. Select and try again.","Et alternativ må velges. Velg ett og prøv igjen.",module,Magento_Backend
 Submit,Send,module,Magento_Backend
 "Unknown block type","Ukjent blokktype",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empty","Vennligst korriger kategorikonfigurasjonen og prøv på nytt. Kategori Id kan ikke være tom",module,Magento_Backend
 "Please correct the tab configuration and try again.","Korriger kategorikonfigurasjonen og prøv på nytt.",module,Magento_Backend
 "You have logged out.","Du har logget ut.",module,Magento_Backend
-"These cache type(s) don't exist: %1","These cache type(s) don't exist: %1",module,Magento_Backend
+"These cache type(s) don't exist: %1","Følgende cache type(r) finnes ikke: %1",module,Magento_Backend
 "The image cache was cleaned.","Hurtigbufferen for bilder ble tømt.",module,Magento_Backend
 "An error occurred while clearing the image cache.","Det oppstod en feil under tømming av hurtigbuffer for bilder.",module,Magento_Backend
 "The JavaScript/CSS cache has been cleaned.","Hurtigbufferen for JavaScript/CSS har blitt tømt.",module,Magento_Backend
@@ -640,15 +640,15 @@ New,Ny,module,Magento_Backend
 YTD,"Hittil i år",module,Magento_Backend
 2YTD,2YTD,module,Magento_Backend
 "Authentication storage is incorrect.","Autentiseringslagring er feil.",module,Magento_Backend
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Backend
-"An authentication error occurred. Verify and try again.","An authentication error occurred. Verify and try again.",module,Magento_Backend
-"The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.",module,Magento_Backend
-"The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.",module,Magento_Backend
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Kontodetaljene stemte ikke, eller så kan kontoen være midlertidig deaktivert. Vent litt og prøv på nytt senere.",module,Magento_Backend
+"An authentication error occurred. Verify and try again.","En autentiseringsfeil oppstod. Kontroller og prøv igjen.",module,Magento_Backend
+"The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","Admin-øktens levetid er nå ugyldig. Angi levetiden til 31536000 sekunder (ett år), eller kortere, og prøv på nytt.",module,Magento_Backend
+"The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","Admin-øktens levetid er ugyldig. Angi levetiden til 60 sekunder eller mer, og prøv på nytt.",module,Magento_Backend
 Order,Ordre,module,Magento_Backend
 "Order #%1","Ordre # %1",module,Magento_Backend
-"Save &amp; Continue","Save &amp; Continue",module,Magento_Backend
-"Save &amp; Close","Save &amp; Close",module,Magento_Backend
-"Save &amp; New","Save &amp; New",module,Magento_Backend
+"Save &amp; Continue","Lagre &amp; Fortsett",module,Magento_Backend
+"Save &amp; Close","Lagre &amp; Lukk",module,Magento_Backend
+"Save &amp; New","Lagre &amp; Ny",module,Magento_Backend
 Edit,Edit,module,Magento_Backend
 "Sorry, you need permissions to view this content.","Beklager, trenger du tillatelse til å vise dette innholdet.",module,Magento_Backend
 "Next steps","De neste trinnene",module,Magento_Backend
@@ -776,10 +776,10 @@ Advanced,Avansert,module,Magento_Backend
 Developer,Utvikler,module,Magento_Backend
 Debug,Feilsøk,module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Aktiver mal sti tips for butikk",module,Magento_Backend
-"Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter",module,Magento_Backend
-"Parameter Value","Parameter Value",module,Magento_Backend
+"Enable Hints for Storefront with URL Parameter","Aktivere tips for butikkfront med URL-parameter",module,Magento_Backend
+"Parameter Value",Parameterverdi,module,Magento_Backend
 "Enabled Template Path Hints for Admin","Aktivert mal sti tips for Admin",module,Magento_Backend
-"Add Block Class Type to Hints","Add Block Class Type to Hints",module,Magento_Backend
+"Add Block Class Type to Hints","Legge til blokk klassetype til tips",module,Magento_Backend
 "Template Settings","Mal alternativer",module,Magento_Backend
 "Allow Symlinks","Tillate Symlinks",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Advarsel! Aktivering av denne funksjonen anbefales ikke i produksjonsmiljøer fordi det representerer en mulig sikkerhetsrisiko.",module,Magento_Backend
@@ -798,7 +798,7 @@ Debug,Feilsøk,module,Magento_Backend
 "Minify CSS Files","Minify CSS-filer",module,Magento_Backend
 "Image Processing Settings","Image bearbeidings innstillinger",module,Magento_Backend
 "Image Adapter","Bildet adapter",module,Magento_Backend
-"When the adapter was changed, please flush Catalog Images Cache.","When the adapter was changed, please flush Catalog Images Cache.",module,Magento_Backend
+"When the adapter was changed, please flush Catalog Images Cache.","Når kortet ble endret, husk på å tømme hurtigbufferen for bildekatalogen.",module,Magento_Backend
 "Static Files Settings","Statiske filinnstillinger",module,Magento_Backend
 "Sign Static Files","Signer statiske filer",module,Magento_Backend
 "Country Options",Landsalternativ,module,Magento_Backend
@@ -831,12 +831,12 @@ Host,Host,module,Magento_Backend
 "Port (25)","Port (25)",module,Magento_Backend
 "Set Return-Path","Angi returadresse",module,Magento_Backend
 "Return-Path Email","Retur-adresse Email",module,Magento_Backend
-"Images Upload Configuration","Images Upload Configuration",module,Magento_Backend
-"Enable Frontend Resize","Enable Frontend Resize",module,Magento_Backend
-"Maximum Width","Maximum Width",module,Magento_Backend
-"Maximum allowed width for uploaded image.","Maximum allowed width for uploaded image.",module,Magento_Backend
-"Maximum Height","Maximum Height",module,Magento_Backend
-"Maximum allowed height for uploaded image.","Maximum allowed height for uploaded image.",module,Magento_Backend
+"Images Upload Configuration","Bilder Opplast Konfigurasjon",module,Magento_Backend
+"Enable Frontend Resize","Aktiver Frontend Størrelsesjustering",module,Magento_Backend
+"Maximum Width","Maksimal bredde",module,Magento_Backend
+"Maximum allowed width for uploaded image.","Maksimal tillatt bredde for opplastet bilde.",module,Magento_Backend
+"Maximum Height","Maksimal høyde",module,Magento_Backend
+"Maximum allowed height for uploaded image.","Maksimal tillatt høyde for opplastet bilde.",module,Magento_Backend
 Admin,Admin,module,Magento_Backend
 "Admin User Emails","Admin bruker e-post",module,Magento_Backend
 "Forgot Password Email Template","Glemt passord e-post mal",module,Magento_Backend
@@ -861,9 +861,9 @@ Security,Sikkerhet,module,Magento_Backend
 Web,Web,module,Magento_Backend
 "Url Options",Url-alternativer,module,Magento_Backend
 "Add Store Code to Urls","Legge til Butikkoden til nettadresser",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style = ""color: red""> Advarsel! </strong> Når du bruker butikk-kode i URLer, kan det hende at systemet i enkelte tilfeller ikke fungerer korrekt hvis URLer uten butikk-kode blir spesifisert i tredjepartstjenester (f.eks. PayPal etc.).",module,Magento_Backend
 "Auto-redirect to Base URL","Auto-omdirigere til standard-URL",module,Magento_Backend
-"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","I.e. redirect from http://example.com/store/ to http://www.example.com/store/",module,Magento_Backend
+"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","F.eks. omdirigere fra http://eksempel.no/butikk/ til http://www.eksempel.no/butikk/",module,Magento_Backend
 "Search Engine Optimization",Søkemotoroptimalisering,module,Magento_Backend
 "Use Web Server Rewrites","Bruke Web Server omskrivinger",module,Magento_Backend
 "Base URLs","Standard URLer",module,Magento_Backend
@@ -871,7 +871,7 @@ Web,Web,module,Magento_Backend
 "Base URL","Standard URLer",module,Magento_Backend
 "Specify URL or {{base_url}} placeholder.","Angi URL-adressen eller {{base_url}} plassholder.",module,Magento_Backend
 "Base Link URL","Standard Link URL",module,Magento_Backend
-"May start with {{unsecure_base_url}} placeholder.","May start with {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"May start with {{unsecure_base_url}} placeholder.","Kan starte med {{unsecure_base_url}} plassholder.",module,Magento_Backend
 "Base URL for Static View Files","Standard URL for statisk Vis filer",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","Kan være tom eller starte med {{unsecure_base_url}} plassholder.",module,Magento_Backend
 "Base URL for User Media Files","Standard URL for brukeren mediafiler",module,Magento_Backend
@@ -880,18 +880,18 @@ Web,Web,module,Magento_Backend
 "Secure Base URL","Sikre standard URL",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Angi URL-adressen eller {{base_url}} eller {{unsecure_base_url}} plassholder.",module,Magento_Backend
 "Secure Base Link URL","Sikre standard Link URL",module,Magento_Backend
-"May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","Kan starte med {{secure_base_url}}, eller {{unsecure_base_url}} plassholder.",module,Magento_Backend
 "Secure Base URL for Static View Files","Sikre Standard URL for statisk Vis filer",module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Kan være tom eller starte med {{secure_base_url}}, eller {{unsecure_base_url}} plassholder.",module,Magento_Backend
 "Secure Base URL for User Media Files","Sikker Standard URL for Bruker Media Filer",module,Magento_Backend
 "Use Secure URLs on Storefront","Bruk sikre URLer på butikk",module,Magento_Backend
-"Enter https protocol to use Secure URLs on Storefront.","Enter https protocol to use Secure URLs on Storefront.",module,Magento_Backend
+"Enter https protocol to use Secure URLs on Storefront.","Angi https-protokollen for å bruke sikre URLer i butikkens front.",module,Magento_Backend
 "Use Secure URLs in Admin","Bruk sikre URLer i Admin",module,Magento_Backend
-"Enter https protocol to use Secure URLs in Admin.","Enter https protocol to use Secure URLs in Admin.",module,Magento_Backend
+"Enter https protocol to use Secure URLs in Admin.","Angi https-protokollen for å bruke sikre URLer inne i Admin.",module,Magento_Backend
 "Enable HTTP Strict Transport Security (HSTS)","Aktiver HTTP streng Transport Security (HSTS)",module,Magento_Backend
-"See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details.","See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details.",module,Magento_Backend
+"See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details.","Se <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP strengt transportsikkerhet</a> siden for detaljer.",module,Magento_Backend
 "Upgrade Insecure Requests","Oppgradere usikre forespørsler",module,Magento_Backend
-"See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.","See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.",module,Magento_Backend
+"See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.","Se <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Oppgradere Usikre Forespørsler</a> siden for detaljer.",module,Magento_Backend
 "Offloader header","Avlaste header",module,Magento_Backend
 "Default Pages",Standardsider,module,Magento_Backend
 "Default Web URL","Standard URL-adresse",module,Magento_Backend
@@ -964,7 +964,7 @@ Database,Database,module,Magento_Backup
 "The backup file handler was unspecified.","Sikkerhetskopifilbanen ble ikke angitt.",module,Magento_Backup
 "Something went wrong while writing to the backup file ""%1"".","Noe gikk galt under skriving til sikkerhetskopifilen ""%1"".",module,Magento_Backup
 "We can't save the Cron expression.","We can't save the Cron expression.",module,Magento_Backup
-"Backup functionality is disabled","Backup functionality is disabled",module,Magento_Backup
+"Backup functionality is disabled","Backup-funksjonaliteten er deaktivert",module,Magento_Backup
 "You will lose any data created since the backup was made, including admin users, customers and orders.","Du vil miste data opprettet etter siste backup ble gjort, inkludert administratorbrukere, kunder og bestillinger.",module,Magento_Backup
 "Are you sure you want to continue?","Er du sikker på at du vil fortsette?",module,Magento_Backup
 "This may take a few moments.","Dette kan ta litt tid.",module,Magento_Backup
@@ -988,10 +988,10 @@ FTP,FTP,module,Magento_Backup
 "Magento root directory","Magento root mappe",module,Magento_Backup
 "Create Backup","Opprett sikkerhetskopi",module,Magento_Backup
 Rollback,"Rull tilbake",module,Magento_Backup
-"Backup Settings","Backup Settings",module,Magento_Backup
-"Enable Backup","Enable Backup",module,Magento_Backup
+"Backup Settings","Innstillinger for sikkerhetskopiering",module,Magento_Backup
+"Enable Backup","Aktiver sikkerhetskopiering",module,Magento_Backup
 "Enable Scheduled Backup","Aktiver planlagt sikkerhetskopiering",module,Magento_Backup
-"Scheduled Backup Type","Scheduled Backup Type",module,Magento_Backup
+"Scheduled Backup Type","Planlagt sikkerhetskopieringstype",module,Magento_Backup
 "Start Time",Starttid,module,Magento_Backup
 Frequency,Frekvens,module,Magento_Backup
 "Maintenance Mode",Vedlikeholdsmodus,module,Magento_Backup
@@ -1003,16 +1003,16 @@ Size(bytes),Størrelse(bytes),module,Magento_Backup
 Type,Type,module,Magento_Backup
 Download,"Last ned",module,Magento_Backup
 Action,Handling,module,Magento_Backup
-"Dynamic Blocks","Dynamic Blocks",module,Magento_Banner
-"Add Dynamic Block","Add Dynamic Block",module,Magento_Banner
-"Save Dynamic Block","Save Dynamic Block",module,Magento_Banner
-"Delete Dynamic Block","Delete Dynamic Block",module,Magento_Banner
+"Dynamic Blocks","Dynamiske blokker",module,Magento_Banner
+"Add Dynamic Block","Legg til dynamisk blokk",module,Magento_Banner
+"Save Dynamic Block","Lagre dynamisk blokk",module,Magento_Banner
+"Delete Dynamic Block","Slett dynamisk blokk",module,Magento_Banner
 "Save and Continue Edit","Lagre og fortsett redigering",module,Magento_Banner
-"New Dynamic Block","New Dynamic Block",module,Magento_Banner
+"New Dynamic Block","Ny dynamisk blokk",module,Magento_Banner
 Delete,Slette,module,Magento_Banner
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Banner
-Reset,Reset,module,Magento_Banner
-Save,Save,module,Magento_Banner
+"Are you sure you want to do this?","Er du sikker på at du vil gjøre dette?",module,Magento_Banner
+Reset,Nullstill,module,Magento_Banner
+Save,Lagre,module,Magento_Banner
 Content,Innhold,module,Magento_Banner
 "Default Content",Standardinnhold,module,Magento_Banner
 "No Default Content","Ingen standardinnhold",module,Magento_Banner
@@ -1137,7 +1137,7 @@ YY,ÅÅ,module,Magento_Braintree
 "Please try again with another form of payment.","Vennligst prøv på nytt med en annen betalingsmåte.",module,Magento_Braintree
 "Sorry, but something went wrong.","Beklager, men noe gikk galt.",module,Magento_Braintree
 Payment,Betaling,module,Magento_Braintree
-"Braintree Settlement","Braintree Settlement",module,Magento_Braintree
+"Braintree Settlement","Braintree Omsetningsrapport",module,Magento_Braintree
 "Credit card type is not accepted by this merchant account.","Credit card type is not accepted by this merchant account.",module,Magento_Braintree
 "Transaction can only be voided if status is authorized, submitted_for_settlement, or - for PayPal - settlement_pending.","Transaksjon kan bare bli ugyldig dersom status er autorisert, submitted_for_settlement, eller - for PayPal - settlement_pending.",module,Magento_Braintree
 "Credit transactions cannot be refunded.","Kredittransaksjoner kan ikke refunderes.",module,Magento_Braintree
@@ -1156,14 +1156,14 @@ Payment,Betaling,module,Magento_Braintree
 "PayPal is not enabled for your merchant account.","PayPal er ikke aktivert for din forhandlerkonto.",module,Magento_Braintree
 "Partial settlements are not supported by this processor.","Delvis oppgjør støttes ikke av denne prosessoren.",module,Magento_Braintree
 "Cannot submit for partial settlement.","Kan ikke sende inn for delvis oppgjør.",module,Magento_Braintree
-"Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending.","Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending.",module,Magento_Braintree
+"Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending.","Transaksjonen kan ikke annulleres dersom PayPal status for delvis oppgjør sub-transaksjon er settlement_pending.",module,Magento_Braintree
 "Too many concurrent attempts to refund this transaction. Try again later.","For mange parallelle forsøk på å refundere denne transaksjonen. Prøv igjen senere.",module,Magento_Braintree
 "Too many concurrent attempts to void this transaction. Try again later.","For mange samtidige forsøk på å ugyldiggjøre denne transaksjonen. Prøv igjen senere.",module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Aksepter kredittkort og PayPal i Magento butikken din.<br/>Ingen oppsett eller månedlige avgifter og kundene dine forlater ikke butikken for å fullføre kjøpet.",module,Magento_Braintree
 "Enable this Solution","Aktiver løsningen",module,Magento_Braintree
 "Enable PayPal through Braintree","Aktiver PayPal gjennom Braintree",module,Magento_Braintree
-"Vault Enabled","Vault Enabled",module,Magento_Braintree
+"Vault Enabled","Hvelv aktivert",module,Magento_Braintree
 "Basic Braintree Settings","Grunnleggende Braintree innstillinger",module,Magento_Braintree
 Title,Tittel,module,Magento_Braintree
 Environment,Miljø,module,Magento_Braintree
@@ -1172,16 +1172,16 @@ Environment,Miljø,module,Magento_Braintree
 "Public Key","Offentlig nøkkel",module,Magento_Braintree
 "Private Key","Privat nøkkel",module,Magento_Braintree
 "Advanced Braintree Settings","Avansert Braintree innstillinger",module,Magento_Braintree
-"Vault Title","Vault Title",module,Magento_Braintree
+"Vault Title","Hvelv tittel",module,Magento_Braintree
 "Merchant Account ID","Kjøpmann konto-ID",module,Magento_Braintree
-"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.",module,Magento_Braintree
+"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Hvis du ikke spesifiserer næringsdrivendes konto for bruk av transaksjonsbehandling, vil Braintree behandle den ved hjelp av standard forhandlerkontoen din.",module,Magento_Braintree
 "Advanced Fraud Protection","Avansert svidelbeskyttelse",module,Magento_Braintree
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section",module,Magento_Braintree
-"Kount Merchant ID","Kount Merchant ID",module,Magento_Braintree
+"Kount Merchant ID","Kount selger-ID",module,Magento_Braintree
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.",module,Magento_Braintree
 Debug,Feilsøk,module,Magento_Braintree
 "CVV Verification","CVV bekreftelse",module,Magento_Braintree
-"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.",module,Magento_Braintree
+"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Husk å aktivere AVS og/eller CVV i Braintree kontoen under innstillinger/behandling.",module,Magento_Braintree
 "Credit Card Types",Kredittkorttyper,module,Magento_Braintree
 "Sort Order",Sorteringsrekkefølge,module,Magento_Braintree
 "Country Specific Settings","Landspesifikke instillinger",module,Magento_Braintree
@@ -1189,13 +1189,13 @@ Debug,Feilsøk,module,Magento_Braintree
 "Payment from Specific Countries","Betaling fra bestemte land",module,Magento_Braintree
 "Country Specific Credit Card Types","Landet bestemte kredittkort typer",module,Magento_Braintree
 "PayPal through Braintree","PayPal gjennom Braintree",module,Magento_Braintree
-"It is recommended to set this value to ""PayPal"" per store views.","It is recommended to set this value to ""PayPal"" per store views.",module,Magento_Braintree
+"It is recommended to set this value to ""PayPal"" per store views.","Det anbefales å sette denne verdien til ""PayPal"" per butikk visning.",module,Magento_Braintree
 "Override Merchant Name","Overstyr selgernavn",module,Magento_Braintree
-"Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Braintree
-"This feature needs be enabled first for the merchant account through PayPal technical support.","This feature needs be enabled first for the merchant account through PayPal technical support.",module,Magento_Braintree
+"Require Customer's Billing Address","Krev kundens faktureringsadresse",module,Magento_Braintree
+"This feature needs be enabled first for the merchant account through PayPal technical support.","Denne funksjonen må aktiveres først for en forhandlerkonto gjennom PayPal kundestøtte.",module,Magento_Braintree
 "Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Tillat redigering av leveringsadresser oppgitt når det betales via Paypal side",module,Magento_Braintree
 "Display on Shopping Cart","Vis i handlekurv",module,Magento_Braintree
-"Also affects mini-shopping cart.","Also affects mini-shopping cart.",module,Magento_Braintree
+"Also affects mini-shopping cart.","Påvirker også mini-handlekurven.",module,Magento_Braintree
 "Skip Order Review","Hopp over ordregjennomgang",module,Magento_Braintree
 "3D Secure Verification Settings","3D Sikker Verifikasjon Innstillinger",module,Magento_Braintree
 "3D Secure Verification","3d Sikker Verifikasjon",module,Magento_Braintree
@@ -8377,19 +8377,19 @@ Shipping,Frakt,module,Magento_Payment
 "The payment disallows storing objects.","The payment disallows storing objects.",module,Magento_Payment
 "We cannot retrieve the payment method code.","We cannot retrieve the payment method code.",module,Magento_Payment
 "We cannot retrieve the payment information object instance.","We cannot retrieve the payment information object instance.",module,Magento_Payment
-"You can't use the payment type you selected to make payments to the billing country.","You can't use the payment type you selected to make payments to the billing country.",module,Magento_Payment
+"You can't use the payment type you selected to make payments to the billing country.","Du kan ikke bruke betalingstypen du har valgt til å foreta betalinger til i faktureringslandet.",module,Magento_Payment
 "The order action is not available.","The order action is not available.",module,Magento_Payment
 "The authorize action is not available.","The authorize action is not available.",module,Magento_Payment
 "The capture action is not available.","The capture action is not available.",module,Magento_Payment
 "The refund action is not available.","The refund action is not available.",module,Magento_Payment
 "The void action is not available.","The void action is not available.",module,Magento_Payment
 "The payment review action is unavailable.","The payment review action is unavailable.",module,Magento_Payment
-"The credit card number doesn't match the credit card type.","The credit card number doesn't match the credit card type.",module,Magento_Payment
+"The credit card number doesn't match the credit card type.","Kredittkortnummeret samsvarer ikke med type kredittkort.",module,Magento_Payment
 "Invalid Credit Card Number","Invalid Credit Card Number",module,Magento_Payment
 "This credit card type is not allowed for this payment method.","This credit card type is not allowed for this payment method.",module,Magento_Payment
 "Please enter a valid credit card verification number.","Please enter a valid credit card verification number.",module,Magento_Payment
 "Please enter a valid credit card expiration date.","Angi en gyldig kredittkortutløpsdato.",module,Magento_Payment
-"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","%1 class doesn't implement \Magento\Payment\Model\MethodInterface",module,Magento_Payment
+"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","%1 klassen implementerer ikke \Magento\Payment\Model\MethodInterface",module,Magento_Payment
 Yes,Ja,module,Magento_Payment
 No,Nei,module,Magento_Payment
 "Please provide payment for the order.","Please provide payment for the order.",module,Magento_Payment
@@ -8400,7 +8400,7 @@ No,Nei,module,Magento_Payment
 "Payment method",Betalingsmåte,module,Magento_Payment
 "is not available. You still can process offline actions.","is not available. You still can process offline actions.",module,Magento_Payment
 "Please Select","Vennligst velg",module,Magento_Payment
-"We'll ask for your payment details before you place an order.","We'll ask for your payment details before you place an order.",module,Magento_Payment
+"We'll ask for your payment details before you place an order.","Vi vil be om dine betalingsdetaljer før du foretar en bestilling.",module,Magento_Payment
 "--Please Select--","-Vennligst velg--",module,Magento_Payment
 "Card Verification Number Visual Reference","Card Verification Number Visual Reference",module,Magento_Payment
 "What is this?","Hva er dette?",module,Magento_Payment
@@ -14476,8 +14476,8 @@ Configure,Konfigurer,module,Magento_Wishlist
 Delete,Slett,module,Magento_Wishlist
 "Product Details and Comment","Produktdetaljer og kommentar",module,Magento_Wishlist
 "Add To Wishlist","Add To Wishlist",module,Magento_Wishlist
-"Missing key ""model"" in Wishlist Item value data","Missing key ""model"" in Wishlist Item value data",module,Magento_WishlistGraphQl
-"Missing key ""model"" in Wishlist value data","Missing key ""model"" in Wishlist value data",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist Item value data","Mangler nøkkel ""modell"" i ønskeliste produktverdi data",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist value data","Mangler nøkkel ""modell"" i ønskeliste verdi data",module,Magento_WishlistGraphQl
 "Credit card type",Kredittkorttype,module,Magento_Worldpay
 "CVV result","CVV resultat",module,Magento_Worldpay
 "Postcode AVS check","Postnummer AVS sjekk",module,Magento_Worldpay
