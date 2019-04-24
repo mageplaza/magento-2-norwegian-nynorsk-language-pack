@@ -117,11 +117,13 @@ To download and install Norwegian pack manually, you have to access to your serv
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/no_no/no_NO.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/no_no/`
 
-See this screenshot
+See this screenshot:
 
 ![Norwegian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **no_no**
 
 #### Step 2: Flush cache
 
