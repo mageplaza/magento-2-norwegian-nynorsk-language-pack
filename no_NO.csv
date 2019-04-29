@@ -268,23 +268,23 @@
 "Error while checking if topic is synchronous","Feil under kontroll av om emnet er synkront",module,Magento_Amqp
 "Subscription status","Påmeldingsstatus",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Beklager, det oppstod en feil under behandling av forespørselen. Prøv igjen senere.",module,Magento_Analytics
-"Time value has an unsupported format","Time value has an unsupported format",module,Magento_Analytics
+"Time value has an unsupported format","Tidsverdi har et format som ikke er støttet",module,Magento_Analytics
 "Cron settings can't be saved","Cron alternativer kan ikke lagres",module,Magento_Analytics
 "There was an error save new configuration value.","Det oppstod en feil under lagringen av ny konfigurasjonsverdi.",module,Magento_Analytics
 "Please select a vertical.","Velg en vertikal.",module,Magento_Analytics
 "--Please Select--","-Vennligst velg--",module,Magento_Analytics
 "Command was not found.","Kommandoen ble ikke funnet.",module,Magento_Analytics
-"Input data must be string or convertible into string.","Input data must be string or convertible into string.",module,Magento_Analytics
-"Input data must be non-empty string.","Input data must be non-empty string.",module,Magento_Analytics
-"Not valid cipher method.","Not valid cipher method.",module,Magento_Analytics
-"Encryption key can't be empty.","Encryption key can't be empty.",module,Magento_Analytics
-"Source ""%1"" is not exist","Source ""%1"" is not exist",module,Magento_Analytics
+"Input data must be string or convertible into string.","Utfylt felt må være en streng eller mulig å konvertere til en streng.",module,Magento_Analytics
+"Input data must be non-empty string.","Utfylt informasjon må ikke være en tom streng.",module,Magento_Analytics
+"Not valid cipher method.","Ikke gyldig krypteringsmetode.",module,Magento_Analytics
+"Encryption key can't be empty.","Krypteringsnøkkel kan ikke være tom.",module,Magento_Analytics
+"Source ""%1"" is not exist","""%1"" eksisterer ikke",module,Magento_Analytics
 "These arguments can't be empty ""%1""","Disse argumentene kan ikke være tom ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Finner ikke den forhåndsdefinerte integreringsbrukeren!",module,Magento_Analytics
 "File is not ready yet.","Filen er ikke klar ennå.",module,Magento_Analytics
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Base URL er endret, og rapportene blir oppdatert. Avansert rapportering vil være tilgjengelig når endringen er behandlet. Prøv igjen senere.",module,Magento_Analytics
 "Failed to synchronize data to the Magento Business Intelligence service. ","Kan ikke synkronisere data til Magento Business Intelligence service. ",module,Magento_Analytics
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>",module,Magento_Analytics
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Resynkroniser</a>",module,Magento_Analytics
 "TestMessage","TestMelding",module,Magento_Analytics
 "Apps and Games","Programmer og spill",module,Magento_Analytics
 "Athletic/Sporting Goods","Atletisk/sportsbutikk",module,Magento_Analytics
@@ -296,14 +296,11 @@
 "API","API",module,Magento_Analytics
 "Configuration","Innstillinger",module,Magento_Analytics
 "Business Intelligence","Forretningsinformasjon",module,Magento_Analytics
-"BI Essentials","BI Essentials",module,Magento_Analytics
+"BI Essentials","BI  Enkel",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.,module,Magento_Analytics
 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the,module,Magento_Analytics
 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">,module,Magento_Analytics
-terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.,module,Magento_Analytics
-Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the,module,Magento_Analytics
-""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">,module,Magento_Analytics
-terms and conditions</a>.",module,Magento_Analytics
+terms and conditions</a>.","Denne tilbyderen leverer en dynamsik rapportpakke som gir deg et rikt innsyn om din bedrift. Du kan få tilgang til dine rapporter sikkert via et personlig kontrollpanel utenfor din nettbutikk ved å følge denne linken.  ""Vis avanserte rapporter"" </br> For mer informasjon se <a href=""https://magento.com/legal/terms/cloud-terms"">                 for betingelser og vilkår</a>.",module,Magento_Analytics
 "Advanced Reporting Service","Avansert rapporteringstjeneste",module,Magento_Analytics
 "Time of day to send data","Tiden på dagen for å sende data",module,Magento_Analytics
 "Industry","Industri",module,Magento_Analytics
@@ -311,9 +308,7 @@ terms and conditions</a>.",module,Magento_Analytics
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Få mer innsikt fra Magento bedriftsinformasjon</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to,module,Magento_Analytics
 becoming more data driven.</br> Learn more about <a target=""_blank"",module,Magento_Analytics
-href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to,module,Magento_Analytics
-becoming more data driven.</br> Learn more about <a target=""_blank"",module,Magento_Analytics
-href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.",module,Magento_Analytics
+href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Foretaksanalyse tilbyder gir deg en enkel og god oversikt hvordan bli flinkere i forhold til dataflyt</br>Les mer om dette her <a target=""_blank""      href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Enkel og BI Pro</a> .",module,Magento_Analytics
 "Auto Parts","Automatiske deler",module,Magento_Analytics
 "Baby/Children’s Apparel, Gear and Toys","Baby/barn klær, utstyr og leker",module,Magento_Analytics
 "Beauty and Cosmetics","Skjønnhet og velvære",module,Magento_Analytics
@@ -328,19 +323,19 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Jewelry and Watches","Smykker og klokker",module,Magento_Analytics
 "Mass Merchant","Massesalg",module,Magento_Analytics
 "Office Supplies","Kontorrekvisita",module,Magento_Analytics
-"Outdoor and Camping Gear","Utendørs og Camping utstyr",module,Magento_Analytics
+"Outdoor and Camping Gear","Friluftsutstyr",module,Magento_Analytics
 "Pet Goods","Kjæledyr utstyr",module,Magento_Analytics
 "Pharma and Medical Devices","Farmasøytisk og medisinsk utstyr",module,Magento_Analytics
 "Technology B2B","Teknologi B2B",module,Magento_Analytics
-"Other","Andre",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"Other","Annet",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","Tidsverdien som er angitt har et ugyldig format.",module,Magento_Analytics
+"Please select an industry.","Vennligst velg en bransje.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Utfylt data er ugyldig. Fyll inn som streng eller informasjon som kan bli konvertert til en streng. ",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","Informasjonen er ugyldig. Vennligst definer som en streng og forsøk igjen.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","Informasjonen er ugyldig. Vennligst bruk en gyldige krypteringsmetode og forsøk igjen.",module,Magento_Analytics
+"Enter the encryption key and try again.","Fyll ut krypteringsnøkkelen og forsøk igjen.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","""%1"" eksisterer ikke.",module,Magento_Analytics
+"Retry Synchronization","Resynkronisering",module,Magento_Analytics
 "Back","Tilbake",module,Magento_AsynchronousOperations
 "Done","Utført",module,Magento_AsynchronousOperations
 "Retry","Prøv på nytt",module,Magento_AsynchronousOperations
