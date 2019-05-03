@@ -4,6 +4,7 @@ For better assistance, Mageplaza makes an effort to create Magento 2 Norwegian L
 
 Read more [Magento 2 Norwegian Language Pack](https://www.mageplaza.com/magento-2-norwegian-language-pack.html)
 
+![Mageplaza Norwegian language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
