@@ -2,7 +2,7 @@
 
 For better assistance, Mageplaza makes an effort to create Magento 2 Norwegian Language Pack for everyone who needs. The topic provides a package of free guides in order to apply the Norwegian dictionary on your online store. Why do we want to recommend this topic? In fact, the approaching to other countries is the desired development of each shop. In case that you have the plan to do business in Sweden, it is appropriate to use the native language - Norwegian for all transactions.
 
-Read more [Magento 2 Norwegian Language Pack](https://www.mageplaza.com/magento-2-norwegian-language-pack.html)
+Read more [Magento 2 Norwegian Language Pack](https://www.mageplaza.com/magento-2-norwegian-nynorsk-language-pack.html)
 
 ![Mageplaza Norwegian language pack](https://i.imgur.com/qjWPj1W.png)
 
@@ -20,11 +20,11 @@ Read more [Magento 2 Norwegian Language Pack](https://www.mageplaza.com/magento-
 
 This is status of Norwegian Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/57?title=translated)
+![language pack](http://progressed.io/bar/{{process}}?title=translated)
 
 It is not fully translated? Feel free to contribute:
-- [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
-- [On Github](https://github.com/mageplaza/magento-2-norwegian-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
+- [On Crowdin]({{crowdin}}): It takes time to approve your contribution by Magento team.
+- [On Github]({{github_url}}/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
@@ -39,24 +39,14 @@ Install the Norwegian language pack via composer is never easier.
 **Install Norwegian pack**:
 
 ```
-composer require mageplaza/magento-2-norwegian-language-pack:dev-master
-php bin/magento setup:static-content:deploy no_NO
-php bin/magento indexer:reindex
-php bin/magento cache:clean
-php bin/magento cache:flush
-
+{{composer_install}}
 ```
 
 
 **Update  Norwegian pack**:
 
 ```
-composer update mageplaza/magento-2-norwegian-language-pack:dev-master
-php bin/magento setup:static-content:deploy no_NO
-php bin/magento indexer:reindex
-php bin/magento cache:clean
-php bin/magento cache:flush
-
+{{composer_update}}
 ```
 
 #### Authentication required (If any)
@@ -97,7 +87,7 @@ Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html
 unzip master.zip app/i18n/Mageplaza/
 ```
 
-Rename folder `magento-2-norwegian-language-pack` to `no_no`.
+Rename folder `{{github_repo_name}}` to `{{magento_package_code}}`.
 
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -113,18 +103,18 @@ To download and install Norwegian pack manually, you have to access to your serv
 
 #### Step 1: Download the package
 
-- [Download .zip](https://github.com/mageplaza/magento-2-norwegian-language-pack/archive/master.zip)
-- [Download .tar.gz](https://github.com/mageplaza/magento-2-norwegian-language-pack/tarball/master)
+- [Download .zip]({{github_latest_version}})
+- [Download .tar.gz]({{github_latest_version_tar}})
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/no_no/`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/{{magento_package_code}}/`
 
 See this screenshot:
 
 ![Norwegian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
 
-This language pack code is: **no_no**
+This language pack code is: **{{magento_package_code}}**
 
 #### Step 2: Flush cache
 
@@ -140,37 +130,32 @@ Now time to active the Norwegian language pack for your Magento 2 store. From Ma
 ## 4. How to contribute
 
 Contribute to this language at :
-- [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
-- [On Github](https://github.com/mageplaza/magento-2-norwegian-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
+- [On Crowdin]({{crowdin}}): It takes time to approve your contribution by Magento team.
+- [On Github]({{github_url}}/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 ## 5. Supported Magento versions
 
 It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/) (Community), Magento 2 Commerce (EE), Magento Cloud, Magento B2B, Magento MSI.
 
-
-- Magento v2.0.x
-- Magento v2.1.x
-- Magento v2.2.x
-- Magento v2.3.x
-
+{{magento_versions}}
 
 
 ## 6. Notes 
 
 - This project automatically updates weekly from Crowdin.
-- Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-norwegian-language-pack/issues/new)
+- Any question, issue please [create a new issue]({{github_url}}/issues/new)
 
 ## 7. Language package authors
 
-- [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
+- [Magento official translations project for Magento 2]({{crowdin}})
 - Magento Community
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
 ## 8. References 
 
-- https://www.mageplaza.com/magento-2-norwegian-language-pack.html
+- https://www.mageplaza.com/magento-2-norwegian-nynorsk-language-pack.html
 - https://crowdin.com/project/magento-2
 
 
