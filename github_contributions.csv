@@ -2,3 +2,5 @@ Mageplaza,Mageplaza
 "The product doesn't exist. Verify and try again."	"Produktet eksisterer ikke. Kontroller og prøv igjen."	"module"	"Magento_Catalog"
 "The image doesn't exist. Verify and try again."	"Bildet eksisterer ikke. Kontroller og prøv igjen."	"module"	"Magento_Catalog"
 "The image doesn't exist."	"Bildet eksisterer ikke."	"module"	"Magento_Catalog"
+"Tax/VAT Number","Organisasjonsnummer",module,Magento_Customer
+"Tax/VAT Number","Organisasjonsnummer",module,Magento_CustomerCustomAttributes
