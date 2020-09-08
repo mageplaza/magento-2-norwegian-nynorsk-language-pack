@@ -1,6 +1,6 @@
 ## Magento 2 Norwegian Language Pack
 
-For better assistance, Mageplaza makes an effort to create Magento 2 Norwegian Language Pack for everyone who needs. The topic provides a package of free guides in order to apply the Norwegian dictionary on your online store. Why do we want to recommend this topic? In fact, the approaching to other countries is the desired development of each shop. In case that you have the plan to do business in Sweden, it is appropriate to use the native language - Norwegian for all transactions.
+For better assistance, Mageplaza makes an effort to create Magento 2 Norwegian Language Pack for everyone who needs. The topic provides a package of free guides in order to apply the Norwegian dictionary on your online store. Why do we want to recommend this topic? In fact, the approaching to other countries is the desired development of each shop. In case that you have the plan to do business in Norway, it is appropriate to use the native language - Norwegian for all transactions.
 
 Read more [Magento 2 Norwegian Language Pack](https://www.mageplaza.com/magento-2-norwegian-language-pack.html)
 
