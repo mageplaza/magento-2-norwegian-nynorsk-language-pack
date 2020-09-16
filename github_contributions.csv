@@ -1,4 +1,8 @@
-Mageplaza,Mageplaza
-"The product doesn't exist. Verify and try again."	"Produktet eksisterer ikke. Kontroller og prøv igjen."	"module"	"Magento_Catalog"
-"The image doesn't exist. Verify and try again."	"Bildet eksisterer ikke. Kontroller og prøv igjen."	"module"	"Magento_Catalog"
-"The image doesn't exist."	"Bildet eksisterer ikke."	"module"	"Magento_Catalog"
+"The product doesn't exist. Verify and try again.","Produktet eksisterer ikke. Kontroller og prøv igjen.",module,Magento_Catalog
+"The image doesn't exist. Verify and try again.","Bildet eksisterer ikke. Kontroller og prøv igjen.",module,Magento_Catalog
+"The image doesn't exist.","Bildet eksisterer ikke.",module,Magento_Catalog
+"Tax/VAT Number","Organisasjonsnummer",module,Magento_Customer
+"Tax/VAT Number","Organisasjonsnummer",module,Magento_CustomerCustomAttributes
+"Go to Checkout","Gå til Kassen",module,Magento_Checkout
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.","Produktets nødvendige alternativ(er) ble ikke angitt. Vennligst påse at alternativene er angitt, og prøv igjen.",module,Magento_Catalog
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Vi har ikke antallet av ""%1"" du ønsket, men vi bestiller inn de restrerende %2.",module,Magento_CatalogInventory
