@@ -1,6 +1,6 @@
 ## Magento 2 Norwegian Language Pack
 
-For better assistance, Mageplaza makes an effort to create Magento 2 Norwegian Language Pack for everyone who needs. The topic provides a package of free guides in order to apply the Norwegian dictionary on your online store. Why do we want to recommend this topic? In fact, the approaching to other countries is the desired development of each shop. In case that you have the plan to do business in Norway, it is appropriate to use the native language - Norwegian for all transactions.
+For better assistance, Mageplaza makes an effort to create Magento 2 Norwegian Language Pack for everyone who needs. The topic provides a package of free guides in order to apply the Norwegian dictionary on your online store. Why do we want to recommend this topic? In fact, the approaching to other countries is the desired development of each shop. In case that you have the plan to do business in Sweden, it is appropriate to use the native language - Norwegian for all transactions.
 
 Read more [Magento 2 Norwegian Language Pack](https://www.mageplaza.com/magento-2-norwegian-language-pack.html)
 
@@ -27,7 +27,7 @@ It is not fully translated? Feel free to contribute:
 - [On Github](https://github.com/mageplaza/magento-2-norwegian-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
-Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
+Find other [language packs here](https://www.mageplaza.com/magento-2-extensions/language-packs.html)
 
 ## 2. How to Install Norwegian Language Pack
 
@@ -38,17 +38,17 @@ Install the Norwegian language pack via composer is never easier.
 
 **Install Norwegian pack**:
 
-With Social Proof (recommend):
+With Marketing Automation (recommend):
 
 ```
-composer require mageplaza/magento-2-norwegian-language-pack:dev-master avada/module-proofo
+composer require mageplaza/magento-2-norwegian-language-pack:dev-master mageplaza/module-smtp 
 php bin/magento setup:static-content:deploy nb_NO
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 ```
 
-Without Social Proof:
+Without Marketing Automation:
 
 ```
 composer require mageplaza/magento-2-norwegian-language-pack:dev-master
@@ -164,6 +164,7 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - Magento v2.1.x
 - Magento v2.2.x
 - Magento v2.3.x
+- Magento v2.4.x
 
 
 
