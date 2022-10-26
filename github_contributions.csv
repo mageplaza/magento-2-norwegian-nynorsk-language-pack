@@ -7,3 +7,48 @@
 "The product's required option(s) weren't entered. Make sure the options are entered and try again.","Produktets nødvendige alternativ(er) ble ikke angitt. Vennligst påse at alternativene er angitt, og prøv igjen.",module,Magento_Catalog
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Vi har ikke antallet av ""%1"" du ønsket, men vi bestiller inn de restrerende %2.",module,Magento_CatalogInventory
 "Create an Account","Opprett Konto",module,Magento_Company
+"Create an Account","Opprett Konto",module,Magento_Company
+"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Kryss av &quot;Husk meg&quot; for å få tilgang på handlevognen på denne datamaskinen selv når du ikke$
+"Manage Addresses","Administrer adresser",theme,frontend/Magento/luma
+Reorder,"Lag kopi av ordre",module,Magento_Sales
+"Stored Payment Methods","Lagrede betalingsmetoder",module,Magento_Vault
+"You have no stored payment methods.","Du har ingen lagrede betalingsmetoder",module,Magento_Vault
+"Newsletter Subscription","Nyhetsbrev-abonnement",module,Magento_Sales
+"Newsletter Subscriptions","Nyhetsbrev-abonnement",module,Magento_Newsletter
+"Subscription option","Abonnements-alternativer",module,Magento_Customer
+"Subscription Options","Abonnements-alternativer",module,Magento_Newsletter
+"We have removed your newsletter subscription.","Du er nå avmeldt nyhetsbrev-abonnement.",module,Magento_Newsletter
+"We have saved your subscription.","Vi har lagret abonnementet ditt.",module,Magento_Newsletter
+Quality,Kvalitet,module,Magento_Catalog
+SKU,Varekode,module,Magento_Catalog
+SKU,Varekode,module,Magento_CatalogRule
+SKU,Varekode,module,Magento_ConfigurableProduct
+SKU,Varekode,module,Magento_Customer
+SKU,Varekode,module,Magento_Review
+SKU,Varekode,module,Magento_ReviewStaging
+SKU,Varekode,module,Magento_Rma
+SKU,Varekode,module,Magento_Bundle
+SKU,Varekode,module,Magento_BundleStaging
+SKU,Varekode,module,Magento_CatalogRule
+SKU,Varekode,module,Magento_CatalogStaging
+SKU,Varekode,module,Magento_CatalogWidget
+SKU,Varekode,module,Magento_Downloadable
+SKU,Varekode,module,Magento_GiftRegistry
+SKU,Varekode,module,Magento_GroupedProduct
+SKU,Varekode,module,Magento_GroupedProductStaging
+SKU,Varekode,module,Magento_MultipleWishlist
+SKU,Varekode,module,Magento_NegotiableQuote
+SKU,Varekode,module,Magento_Reminder
+SKU,Varekode,module,Magento_Reports
+SKU,Varekode,module,Magento_RequisitionList
+SKU,Varekode,module,Magento_Sales
+SKU,Varekode,module,Magento_SharedCatalog
+SKU,Varekode,module,Magento_Support
+SKU,Varekode,module,Magento_UrlRewrite
+SKU,Varekode,module,Magento_VisualMerchandiser
+"Recent Orders","Ordrehistorikk",module,Magento_Sales
+"View All","Vis Alle",module,Magento_Sales
+"View All","Vis Alle",module,Magento_Review
+Edit,Rediger,module,Magento_NegotiableQuote
+Edit,Rediger,module,Magento_Company
+"Write Us","Skriv til oss",module,Magento_Contact
